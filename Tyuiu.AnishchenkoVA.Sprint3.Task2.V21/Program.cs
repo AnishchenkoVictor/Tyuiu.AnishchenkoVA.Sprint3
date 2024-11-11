@@ -9,9 +9,9 @@ namespace Tyuiu.AnishchenkoVA.Sprint3.Task2.V21
             Console.Title = "Спринт #3 | Выполнил: Анищенко В. А. | ИИПБ-24-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: Оператор цикла while                                              *");
-            Console.WriteLine("* Задание #1                                                              *");
-            Console.WriteLine("* Вариант #11                                                             *");
+            Console.WriteLine("* Тема: Оператор цикла do-while                                              *");
+            Console.WriteLine("* Задание #2                                                              *");
+            Console.WriteLine("* Вариант #21                                                             *");
             Console.WriteLine("* Выполнил: Анищенко Виктор Александрович | ИИПБ-24-2                     *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
