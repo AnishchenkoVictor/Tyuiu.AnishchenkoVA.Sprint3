@@ -12,7 +12,7 @@ namespace Tyuiu.AnishchenkoVA.Sprint3.Task1.V11.Lib
                 startValue++;
             }
 
-            return res;
+            return Math.Round(res,3);
         }
     }
 }

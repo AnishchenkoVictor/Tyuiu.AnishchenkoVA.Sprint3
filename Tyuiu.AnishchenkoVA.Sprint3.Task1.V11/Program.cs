@@ -33,7 +33,7 @@ namespace Tyuiu.AnishchenkoVA.Sprint3.Task1.V11
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine("Произведение по форму p = " + Math.Round(ds.GetMultiplySeries(a, start, end), 3));
+            Console.WriteLine("Произведение по форму p = " + ds.GetMultiplySeries(a, start, end));
             Console.ReadKey();
         }
     }
