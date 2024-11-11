@@ -14,7 +14,7 @@ namespace Tyuiu.AnishchenkoVA.Sprint3.Task6.V14.Test
             
             int res = ds.GetSumTheDivisors(start, end);
 
-            int wait = 12;
+            int wait = 13;
 
             Assert.AreEqual(wait, res);
         }

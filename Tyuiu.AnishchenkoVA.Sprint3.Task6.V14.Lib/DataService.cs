@@ -12,18 +12,14 @@ namespace Tyuiu.AnishchenkoVA.Sprint3.Task6.V14.Lib
             {
                 for (int d = 1; d <= x; d++)
                 {
-                    if (x % d == 0)
+                    if (x % d == 0 && d > 5)
                     {
                         count++;
                     }
                 }
-                if (count > 5)
-                {
-                    res += x;
-                }
-                count = 0;
             }
-            return res;
+
+            return count;
         }
     }
 }
